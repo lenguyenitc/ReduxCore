@@ -1,12 +1,4 @@
 <?php
-global $cms_base;
-/* get local fonts. */
-$local_fonts = '';
-/**
- * Home Options
- * 
- * @author Fox
- */
 $this->sections[] = array(
     'title' => __('Main Options', 'tutscoffee'),
     'icon' => 'el-icon-dashboard',
